@@ -3,6 +3,6 @@ using namespace std;
 
 int main()
 {
-    cout<<(34&1);
+    cout<<"hey manasa"<<end;
     return 0;
 }
