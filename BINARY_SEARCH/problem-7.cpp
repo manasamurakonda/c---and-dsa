@@ -1,6 +1,7 @@
 // find first and last position of element in sorted array
 // leetcode - 34
 class Solution {
+
 public:
     int lb(vector<int> & nums,int target)
     {
